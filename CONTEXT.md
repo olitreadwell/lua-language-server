@@ -27,3 +27,4 @@
 
 ## Mined gaps (discovered, not yet attempted)
 - (see current run: trivial-fix pass — typos/broken links/stale refs across repo, excluding doc/ and locale/ per CONTRIBUTING)
+- `2026-09-03` self-found trivial-fix pass (2 broken README links + 14 changelog typos) — outcome pr-opened (fork PR #1) — lesson: README credit links to LuaLS/... 404; repos live under sumneko/...; changelog has many genuine typos maintainers accept fixing.
